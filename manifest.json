@@ -1,0 +1,9 @@
+{
+  "name": "Lappstart",
+  "version": "1.0",
+  "description": "Lappland's startpage",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
